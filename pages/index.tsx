@@ -6,6 +6,7 @@ export default function Home() {
   return (
     <>
       <Head>
+        <meta http-equiv="Refresh" content="0; url='https://github.com/martinschonger'" />
         <title>Create Next App</title>
         <meta name="description" content="schonger.dev" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
