@@ -14,7 +14,7 @@ export default function Home() {
       </Head>
       <main className={`${styles.main}`}>
         <div className={styles.description}>
-          <p style={{"margin: auto"}}>
+          <p style={{margin: "auto"}}>
             schonger.dev: setup in progress ...
             {/* <code className={styles.code}>pages/index.tsx</code> */}
           </p>
