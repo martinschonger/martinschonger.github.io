@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Doctoral Student @ <a href='https://www.epfl.ch/'>EPFL</a>. Research Assistant @ <a href='https://www.idiap.ch/'>Idiap</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
